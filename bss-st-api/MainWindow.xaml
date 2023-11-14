@@ -11,7 +11,7 @@
             <Label Foreground="White" FontFamily="Calibri" FontSize="18" Width="60" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" >Index</Label>
             <TextBox x:Name="txt_index" FontSize="20" Width="100" Height="50" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  >1</TextBox>
             <Button x:Name="btnSave" FontSize="15" Background="White" Width="80" FontFamily="Calibri" >Save Off</Button>
-
+            <Button x:Name="btnServer" FontSize="12" Background="White" Width="80" FontFamily="Calibri" >Server Start</Button>
         </StackPanel>
         <ListBox Height="100" x:Name="list" Background="#1e1e1e" BorderThickness="0">
             <ListBox.ItemTemplate>
