@@ -67,6 +67,7 @@
     <Compile Include="Helpers\HookHelper.cs" />
     <Compile Include="Helpers\NetworkHelper.cs" />
     <Compile Include="Helpers\UdpHelper.cs" />
+    <Compile Include="Helpers\UtilHelper.cs" />
     <Compile Include="Helpers\XmlHelper.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
